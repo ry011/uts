@@ -1,0 +1,42 @@
+.container{
+    display: flex;
+}
+
+.logo1 {
+    width: 200px;
+}
+
+.navbar {
+    background-color: blue;
+}
+
+.navbar ul li {
+    color: white;
+    font-size: 30px;
+    margin-left: 10px;
+    display: inline;
+    list-style-type: none;
+}
+
+.gambar {
+    width: 90%;
+    margin-left: 200px;
+ 
+}
+
+.fotobunga{
+    width: 150px;
+}
+
+.artikel ul li{
+    list-style-type: none;
+}
+
+.libiru {
+    font-size: 30px;
+    color: blue;
+}
+
+.selamatdatangfoto{
+    background-color: whitesmoke;
+}
